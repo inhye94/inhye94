@@ -2,25 +2,17 @@
 
 **Front-End Developer**
 
-사용자에게 재미있는 경험을 선사하고 싶습니다!  
-팀원들과 고민하고 의견을 나누면서 생각의 폭을 넓혀나갑니다.  
-당연한 건 없다고 생각하며 이유를 찾아 나섭니다.
+사용자 경험 개선과 UI 중심 개발을 합니다!  
+단순히 재미있는 개발을 넘어서, 성능과 사용자 친화적 UI에서 최고의 개발자가 되고 싶습니다!
 
 ### 👀 관심사
 
-- atomic-ui
+- 상호작용하는 UI/UX
 - 디자인 시스템
-- 코드 관심사 분리
-- 클린 코드
 
 ### 🛠️ 기술 스택
 
-```json
-{
-  "front-end": ["html", "css", "javascript", "typescript", "react"],
-  "package-manager": ["yarn berry"],
-  "co-work": ["git", "github", "figma", "jira", "notion"],
-  "etc": ["php", "codeignitor", "storybook"],
-  "study": ["nextJS"]
-}
-```
+- **`Front End`**: HTML, CSS, JavaScript, TypeScript, React, NextJS, TailwindCSS, Emotion, SCSS
+- **`Package Manager`**: PNPM
+- **`Co-work`**: Git, Figma, Jira, Notion
+- **`Etc`**: PHP CodeIgnitor, Storybook
